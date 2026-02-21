@@ -1,0 +1,34 @@
+Admin Credential
+_______________________________
+
+Admin Name - Sagar Patel
+Email Id - admin@bbdms.com
+User Name - admin
+Password - Admin@123
+_______________________________
+
+Donor Credential
+_______________________________
+
+Donor Name - Sagar Patel
+Email Id - sagar@gmail.com
+Password - Sagar@123
+
+Donor Name - Kunj Thakkar
+Email Id - kunj@gmail.com
+Password - Kunj@123
+
+Donor Name - Aashu Patel
+Email Id - aashu@gmail.com
+Password - Aashu@123
+_______________________________
+
+Web Hosting Credential
+_______________________________
+
+Domain Name - bbdms.gt.tc
+Account Password - Yzwitb1XTC3Ytq
+MySQL DB Name - if0_41210871_bbdms
+MySQL User Name - if0_41210871
+MySQL Password - Yzwitb1XTC3Ytq
+MySQL Host Name - sql213.infinityfree.com
